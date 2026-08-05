@@ -1,11 +1,13 @@
 <h1>Hi, I'm Sharta Lofton! <br/><a 
-href="https://www.linkedin.com/in/shartalofton/">Data Analyst</a>
+href="https://www.linkedin.com/in/shartalofton/">Data Analyst</a>,<a
+href=>Contract Administrator</a>
+  
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/ShartaLofton/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 <h2>📚Certifications:</h2>
 
