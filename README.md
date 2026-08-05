@@ -1,6 +1,5 @@
 <h1>Hi, I'm Sharta Lofton! <br/><a 
-href="https://www.linkedin.com/in/shartalofton/">Data Analyst</a> , <a
-href=>Contract Administrator</a>
+href="https://www.linkedin.com/in/shartalofton/">Data Analyst</a>                                             
   
 </h1>
 
